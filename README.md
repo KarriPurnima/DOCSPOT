@@ -1,6 +1,6 @@
 # DOCSPOT
 
-Full-stack medical appointment booking platform with React frontend and Node.js backend.
+Full-stack DOCSPOT with React frontend and Node.js backend.
 
 ## Features
 - **Patient**: Book appointments, view history, manage profile
@@ -45,7 +45,7 @@ REACT_APP_API_URL=http://localhost:5001/api
 mongod
 
 # Terminal 1 - Backend
-cd backend && npm run dev
+cd backend && nodemon index.js
 
 # Terminal 2 - Frontend
 cd frontend && npm start
@@ -88,7 +88,7 @@ PUT  /api/appointments/:id - Update appointment
 ### Development
 ```bash
 # Backend dev mode
-npm run dev
+nodemon index.js
 
 # Frontend dev mode
 npm start
