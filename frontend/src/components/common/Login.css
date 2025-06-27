@@ -1,0 +1,29 @@
+.login-background {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #c2d6e3, #a0c4d6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.brand-link {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #333;
+  text-decoration: none;
+}
+
+.nav-item {
+  margin-left: 20px;
+  color: #333;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.nav-item:hover {
+  color: #007bff;
+}
+
+.login-image {
+  mix-blend-mode: darken;
+}
