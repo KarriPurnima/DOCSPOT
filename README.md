@@ -11,6 +11,10 @@ Full-stack DOCSPOT with React frontend and Node.js backend.
 - **Frontend**: React.js, CSS3, Axios
 - **Backend**: Node.js, Express.js, MongoDB, JWT
 
+## 📹 Demo Video
+
+[Click here to watch the demo video](https://drive.google.com/drive/folders/1yGO20TBS6oq1sfYr6acyTI2QzTLnxa6t)
+
 ## Installation
 
 ### 1. Clone & Install
