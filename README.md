@@ -2,9 +2,20 @@
 
 Full-stack DOCSPOT with React frontend and Node.js backend.
 
-### 🖥️ Home Page
+## 🖥️ Home Page
 
 ![Home Page](https://github.com/user-attachments/assets/265cd6a2-bb94-466c-9482-98ab6e500eda)
+
+![Image](https://github.com/user-attachments/assets/eb992531-39ff-4f8f-b6da-fa6c6439013e)
+
+## 🔐 Login Page
+
+![Login Page](https://github.com/user-attachments/assets/373d7ec9-8b82-40c8-83a3-a4599cf05384)
+
+
+## 📝 Register Page
+
+![Register Page](https://github.com/user-attachments/assets/5062a472-fef6-4b5c-895e54fbbd81fd83)
 
 ## Features
 - **Patient**: Book appointments, view history, manage profile
