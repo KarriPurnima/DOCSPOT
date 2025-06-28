@@ -15,7 +15,7 @@ Full-stack DOCSPOT with React frontend and Node.js backend.
 
 ## 📝 Register Page
 
-![Register Page]![Image](https://github.com/user-attachments/assets/53848ae9-8148-45f1-b8c3-221e5cb05861)
+![Register Page](https://github.com/user-attachments/assets/53848ae9-8148-45f1-b8c3-221e5cb05861)
 
 
 ## 🛠️ Admin Dashboard
@@ -25,14 +25,14 @@ Full-stack DOCSPOT with React frontend and Node.js backend.
 
 ## 👤 User Dashboard
 
-![User Dashboard]![Image](https://github.com/user-attachments/assets/c46d7238-8fd8-422d-b4e3-f47936bf4d3f)
+![User Dashboard](https://github.com/user-attachments/assets/c46d7238-8fd8-422d-b4e3-f47936bf4d3f)
 
 ![User Dashboard](https://github.com/user-attachments/assets/0a22f9c0-b67d-4c35-bbc6-6e5ca542f264)
 
 
 ## 🩺 Doctor Dashboard
 
-![Doctor Dashboard]![Image](https://github.com/user-attachments/assets/d5afd5f3-af14-4a26-b233-835768382970)
+![Doctor Dashboard](https://github.com/user-attachments/assets/d5afd5f3-af14-4a26-b233-835768382970)
 
 ![Doctor Dashboard](https://github.com/user-attachments/assets/65093028-6628-4483-868f-301fc97f504f)
 
