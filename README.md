@@ -25,7 +25,7 @@ Full-stack DOCSPOT with React frontend and Node.js backend.
 
 ## 👤 User Dashboard
 
-
+![User Dashboard](https://github.com/user-attachments/assets/72124b57-02ca-4d8b-97b8-78d1fe318c9f)
 
 
 ## 🩺 Doctor Dashboard
