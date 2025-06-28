@@ -2,7 +2,7 @@
 
 Full-stack DOCSPOT with React frontend and Node.js backend.
 
-![Uploading 2025-06-27 (6).png…]()
+![Image](https://github.com/user-attachments/assets/265cd6a2-bb94-466c-9482-98ab6e500eda)
 
 ## Features
 - **Patient**: Book appointments, view history, manage profile
