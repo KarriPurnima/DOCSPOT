@@ -25,14 +25,14 @@ Full-stack DOCSPOT with React frontend and Node.js backend.
 
 ## 👤 User Dashboard
 
-![User Dashboard](https://github.com/user-attachments/assets/753c0dcd-6845-4251-a2e1-72f979eaef43)
+
 
 
 ## 🩺 Doctor Dashboard
 
 ![Doctor Dashboard](https://github.com/user-attachments/assets/8da17079-0091-4454-be03-e80894b195af)
 
-![Doctor Dashboard](https://github.com/user-attachments/assets/25ad3319-826d-4479-b2ca-71e9bc806688)
+![Doctor Dashboard](https://github.com/user-attachments/assets/753c0dcd-6845-4251-a2e1-72f979eaef43)
 
 ## Features
 - **Patient**: Book appointments, view history, manage profile
