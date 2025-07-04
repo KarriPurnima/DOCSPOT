@@ -47,7 +47,7 @@ Full-stack DOCSPOT with React frontend and Node.js backend.
 
 ## 📹 Demo Video
 
-[Click here to watch the demo video](https://drive.google.com/drive/folders/1yGO20TBS6oq1sfYr6acyTI2QzTLnxa6t)
+[Click here to watch the demo video](https://github.com/user-attachments/assets/bdcc0374-e9ef-4f3e-aff5-64edcfb700cc)
 
 ## Installation
 
