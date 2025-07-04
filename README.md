@@ -142,6 +142,10 @@ npm install
 4. Push to branch
 5. Create Pull Request
 
+## ✨ Author
+
+Karri Purnima https://github.com/KarriPurnima
+
 ## License
 MIT License
 
